@@ -1,0 +1,21 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "Sorts Console Application",
+  "authors": [ "Kostya" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "dependencies": {
+  },
+
+  "commands": {
+    "Sorts": "Sorts"
+  },
+
+  "frameworks": {
+    "dnx451": {
+
+    }
+  }
+}
